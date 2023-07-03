@@ -21,43 +21,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedShafique313&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
+
+
 [![](https://visitcount.itsvg.in/api?id=AhmedShafique313&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## ⚡️Github Contributions
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
-
-<p align="center">
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
-  </a>
-</p>
 
 
-## 🚀Github Metrics
 
-<p align="center">
-    <img width="625em" src="https://github.com/AhmedShafique313/AhmedShafique313/blob/main/github-metrics.svg" />
-</p>
-    
-## 🐛Github Magic Game
 
-<p align="center">
-  <img src="https://github.com/AhmedShafique313/AhmedShafique313raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-<br>
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/AhmedShafique/count.svg">
-</p>
-		
-![](https://hit.yhype.me/github/profile?user_id=50300882)
