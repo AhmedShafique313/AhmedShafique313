@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Developer, Data Scientist & AIOT learner.<br>👯 I’m looking to collaborate with other developers and creators.<br>🤝 I’m looking for help with developers and creators.<br>🌱 I’m currently studying in University of Engineering & Technology, Lahore (New Campus).<br>💬 Ask me about IOT, Develops and Artificial Intelligence.<br>⚡ Fun fact People say "I work like a robot" :)
+🔭 I’m currently working as Developer, Data Scientist & AIOT learner.<br>👯 I’m looking to collaborate with other developers and creators.<br>🤝 I’m looking for help with developers and creators.<br>🌱 I’m currently studying in University of Engineering & Technology, Lahore (New Campus).<br>💬 Ask me about IOT, Develops and Artificial Intelligence.<br>⚡ Fun fact People say "I work like a robot" :)<br>💞️ I’m looking to collaborate on this profile with tech-savvies.
 
 
 ## 🌐 Socials:
