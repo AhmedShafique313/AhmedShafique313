@@ -1,11 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as Developer, Data Scientist & AIOT learner.<br>👯 I’m looking to collaborate with other developers and creators.<br>🤝 I’m looking for help with developers and creators.<br>🌱 I’m currently studying in University of Engineering & Technology, Lahore (New Campus).<br>💬 Ask me about IOT, Develops and Artificial Intelligence.<br>⚡ Fun fact People say "I work like a robot" :)
 
- <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Google +Developer+Student+;Flutter+Developer+;IOT+Engineer;A1,+ML+Learner" alt="Typing SVG" />
-    </a>
-  </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100087738379590) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmed_shafique313/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-shafique-313-ieo/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ahmed-Shafique-Muhammad-Shafique) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21648337/ahmed-shafique) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCvWPzldVK6ph4hrUcsF2l8g) 
