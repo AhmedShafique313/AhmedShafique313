@@ -28,3 +28,18 @@
 [![](https://visitcount.itsvg.in/api?id=AhmedShafique313&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<br>
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
+</p>
+		
+![](https://hit.yhype.me/github/profile?user_id=50300882)
