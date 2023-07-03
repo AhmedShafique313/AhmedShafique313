@@ -38,17 +38,34 @@
   </a>
 </p>
 
+## ⚡️Github Contributions
+
+<h4 align="center">Isometric view of contributions in the last year</h4>
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
+  </a>
+</p>
+
+
+## 🚀Github Metrics
+
+<p align="center">
+    <img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+</p>
+    
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/AhmedShafique313/AhmedShafique313/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <br>
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/AhmedShafique313/count.svg">
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
 </p>
 		
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
