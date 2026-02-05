@@ -3,8 +3,6 @@
 ### AI Product Builder | Helping Startups Launch Scalable AI-Powered SaaS Products  
 **AWS • GCP • LLMs • GenAI • Autonomous Agents**
 
----
-
 ## 🚀 What I Do
 
 I design and build **production-grade AI SaaS products** for startups and founders — from idea to scalable deployment.
@@ -14,8 +12,6 @@ I specialize in:
 - Building **LLM-driven systems** that actually work in the real world
 - Designing **autonomous agents & AI workflows** that drive revenue, not demos
 
----
-
 ## 🧠 Core Expertise
 
 - **AI & LLMs:** OpenAI, LangChain, RAG, Vector Databases, Prompt Engineering  
@@ -24,8 +20,6 @@ I specialize in:
 - **Cloud:** AWS, GCP, scalable deployments, production infra  
 - **Databases:** PostgreSQL, MongoDB, Redis, Vector DBs  
 - **Products:** MVP → SaaS → Scale
-
----
 
 ## 🧩 Featured Projects
 
@@ -38,8 +32,6 @@ I specialize in:
 
 ➡️ *Built for service businesses & startups looking for predictable revenue*
 
----
-
 ### 🔹 AI Outreach Engine
 **AI-powered cold outreach system**
 - Scrapes & qualifies leads
@@ -48,13 +40,9 @@ I specialize in:
 
 ➡️ *Designed for founders, agencies & B2B sales teams*
 
----
-
 ### 🔹 Multi-Agent AI Systems
 - Autonomous agents collaborating to solve complex tasks
 - Used for research, outreach, and decision-making systems
-
----
 
 ## 🛠️ How I Work
 
@@ -62,8 +50,6 @@ I specialize in:
 - Production-ready architecture
 - Scalable, maintainable systems
 - Clear communication with founders & CTOs
-
----
 
 ## 🤝 Let’s Build
 
